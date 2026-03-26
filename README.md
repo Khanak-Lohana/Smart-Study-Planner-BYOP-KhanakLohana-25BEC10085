@@ -26,11 +26,11 @@ Students often forget assignments and struggle with time management due to lack 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - JSON File Handling
 - Git & GitHub
 
 ---
 
-## 📂 Project Structure
+
